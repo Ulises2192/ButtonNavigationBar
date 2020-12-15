@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_gasolinerias"
+        android:icon="@drawable/ic_gasolineria"
+        android:title="@string/menu_gasolineria" />
+    <item
+        android:id="@+id/menu_favoritos"
+        android:icon="@drawable/ic_ubicacion"
+        android:title="@string/menu_favoritos" />
+    <item
+        android:id="@+id/menu_recargas"
+        android:icon="@drawable/ic_dollar"
+        android:title="@string/menu_recargas" />
+    <item
+        android:id="@+id/menu_resenia"
+        android:icon="@drawable/ic_review"
+        android:title="@string/menu_resenia" />
+</menu>

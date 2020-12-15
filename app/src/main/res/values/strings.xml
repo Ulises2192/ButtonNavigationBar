@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ButtonNavigationBar</string>
+    <string name="menu_gasolineria">Gasolinerias</string>
+    <string name="menu_favoritos">Favoritos</string>
+    <string name="menu_recargas">Mis recargas</string>
+    <string name="menu_resenia">Reseñas</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
